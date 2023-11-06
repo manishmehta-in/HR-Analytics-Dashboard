@@ -44,7 +44,7 @@ Through this project, we have achieved the following:
 
 ## Screenshots
 
-![Agrawal Sales Analysis img](https://github.com/manishmehta-in/Agrawal_Store_Data_Analysis_In_Excel/assets/140696340/ec303e3b-32e6-4851-8c9c-f1ed89171ddd)
+![Agrawal Sales Analysis img](https://drive.google.com/file/d/1SVPyP23IXjF8ASawL_857PlW7uDjY6Rr/view?usp=sharing)
 
 ## Getting Started
 
