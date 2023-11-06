@@ -1,4 +1,5 @@
 # HR Analytics Dashboard
+[GitHub Repository](https://github.com/manishmehta-in/HR-Analytics-Dashboard)
 
 ## Objective
 
