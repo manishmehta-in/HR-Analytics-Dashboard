@@ -44,7 +44,7 @@ Through this project, we have achieved the following:
 
 ## Screenshots
 
-![https://drive.google.com/file/d/1LBlCtXD14E6h67biQbsICRARLyBQWJy7/view?usp=sharing]
+![Project Screenshot](https://drive.google.com/file/d/1LBlCtXD14E6h67biQbsICRARLyBQWJy7/view?usp=sharing)
 
 ## Getting Started
 
