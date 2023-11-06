@@ -44,7 +44,7 @@ Through this project, we have achieved the following:
 
 ## Screenshots
 
-![Agrawal Sales Analysis img](https://drive.google.com/drive/u/0/folders/1TXORnb4XeSbM9A-FFrLjn2tlXpfka4n1)
+![Agrawal Sales Analysis img](https://github.com/manishmehta-in/HR-Analytics-Dashboard/blob/main/HR%20Analysis%20Dashboard%20Screenshort2.jpeg)
 
 ## Getting Started
 
