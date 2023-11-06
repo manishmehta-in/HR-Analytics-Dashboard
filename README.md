@@ -44,7 +44,7 @@ Through this project, we have achieved the following:
 
 ## Screenshots
 
-![Agrawal Sales Analysis img](https://drive.google.com/file/d/1SVPyP23IXjF8ASawL_857PlW7uDjY6Rr/view?usp=sharing)
+![Agrawal Sales Analysis img](https://drive.google.com/drive/u/0/folders/1TXORnb4XeSbM9A-FFrLjn2tlXpfka4n1)
 
 ## Getting Started
 
