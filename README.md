@@ -9,6 +9,11 @@ The objective of this project is to help organizations improve employee performa
 
 Organizations today rely heavily on data-driven insights to make strategic decisions. HR Analytics plays a crucial role in understanding employee behavior, engagement, and satisfaction. This dashboard empowers HR professionals and management to visualize and analyze HR data effectively, leading to informed decision-making processes.
 
+## Screenshots
+
+![HR Analysis Dashboard Screenshort](https://github.com/manishmehta-in/HR-Analytics-Dashboard/assets/140696340/a50d293a-1b91-4db6-9d01-329367dc8e52)
+
+
 ## Key Features
 
 - **Attrition Analysis:** Identify patterns and trends related to employee attrition and take proactive measures to retain valuable talent.
@@ -43,9 +48,6 @@ Through this project, we have achieved the following:
 2. **Power BI Report:**
    - The Power BI report can be accessed by opening the `hr-analytics-dashboard.pbix` file.
 
-## Screenshots
-
-![HR Analysis Dashboard Screenshort](https://github.com/manishmehta-in/HR-Analytics-Dashboard/assets/140696340/a50d293a-1b91-4db6-9d01-329367dc8e52)
 
 
 ## Getting Started
